@@ -1,0 +1,18 @@
+.navbar *, .navbar {
+    background-color: rgb(40, 40, 40);
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.logo-navbar {
+    width: 50px;
+}
+
+.title-navbar {
+    font-size: 1.5em;
+    margin-left: 10px;
+}
